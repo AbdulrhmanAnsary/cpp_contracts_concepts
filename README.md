@@ -39,5 +39,3 @@ This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file
 Acknowledgments
 
 Thanks to ModernesCpp for the insightful article and resources on upcoming C++ features.
-
-This `README.md` provides an introduction to contracts, references the article for further reading, and includes details on how to use the repository. Feel free to customize the content as needed!
